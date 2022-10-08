@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\bin\Debug\net6.0\testPiano.exe
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\bin\Debug\net6.0\testPiano.deps.json
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\bin\Debug\net6.0\testPiano.runtimeconfig.json
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\bin\Debug\net6.0\testPiano.dll
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\bin\Debug\net6.0\testPiano.pdb
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.dll
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\refint\testPiano.dll
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.pdb
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\testPiano.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\proekt 2\testPiano\testPiano\obj\Debug\net6.0\ref\testPiano.dll
